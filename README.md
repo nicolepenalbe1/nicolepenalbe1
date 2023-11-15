@@ -13,7 +13,7 @@ preprocesadores de CSS como Sass, complementan mi enfoque para
 crear aplicaciones web estéticas y funcionales. En resumen, me apasiona trabajar en el desarrollo frontend,
 explorando constantemente nuevas formas de mejorar la experiencia del usuario.
 
-![image](https://i.pinimg.com/originals/53/b3/64/53b3644a6bd653013657251ec958f841.gif)
+![image](https://i.pinimg.com/564x/6b/70/15/6b7015c8d0f10ba0a68b9f765a80aa58.jpg_)
 
 Mis experencias adqueridas son: 
 
