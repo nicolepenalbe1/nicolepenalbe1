@@ -2,6 +2,8 @@
 
 Hola mi nombre es Nicole Peñalbe 👋🏻
 
+![image](https://www.canva.com/design/DAF0M5EDMy0/DSDskq0hH7b9poNbHoQjuw/edit?utm_content=DAF0M5EDMy0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 Soy alumna de la Tecnicatura Universitaria en Programación UTN estoy cursando mi último año y pienso seguir estudiando 
 hasta poder sentirme bien preparada y seguir estudiando para una buena salida laboral.
 
